@@ -1,0 +1,19 @@
+img {
+    margin: 20px 20px;
+}
+
+.formContainer {
+    width: 75%;;
+}
+
+#removeBtn {
+    color: orange;
+    border: 3px solid orange;
+    background-color: darkred;
+}
+
+#searchBtn {
+    color: lawngreen;
+    border: 3px solid lawngreen;
+    background-color: darkgreen;
+}
